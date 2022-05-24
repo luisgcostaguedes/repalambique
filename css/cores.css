@@ -1,0 +1,8 @@
+:root {
+    --cor-branca: #ffffff
+}
+
+
+.cor-branca {
+    color: var(--cor-branca);
+}
